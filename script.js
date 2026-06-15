@@ -1,4 +1,5 @@
 // Function to add a log entry
+
 function addLogEntry(log) {
   const logsContainer = document.getElementById('logs');
   const logEntry = document.createElement('p');
